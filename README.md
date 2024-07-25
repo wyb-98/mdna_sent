@@ -1,5 +1,4 @@
-# SEC and finbert stuff
-
+# Scraping SEC filings for Sentiment Analysis
 ## Installation
 
 SpaCy's sentence chunker needs the following command line:
